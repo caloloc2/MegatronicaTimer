@@ -7,9 +7,4 @@
         android:icon="@drawable/ic_bluetooth_black_24dp"
         android:title="Item"
         app:showAsAction="always" />
-    <item
-        android:id="@+id/bluetooth_conectado"
-        android:icon="@drawable/ic_bluetooth_connected_black_24dp"
-        android:title="Item"
-        app:showAsAction="always" />
 </menu>
